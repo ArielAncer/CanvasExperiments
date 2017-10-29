@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(247, 247, 247);
+    margin:0;
+    height: 100%;
+    width: 100%;
+}
+
+canvas{
+    border: 1px solid black;
+}
